@@ -1,0 +1,71 @@
+h1, h2, h3 {
+    font-family: 'Cutive Mono', monospace;
+}
+
+h3.heading1 {
+    font-size: 2em;
+}
+
+h3.heading2 {
+    font-size: 1.5em;
+}
+
+.systemcontent {
+    border: 1.5px solid gray;
+    padding: 20px 20px;
+    margin: 10px;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.darkgray {
+    background-color: #7B8EA8;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.cloudblue {
+    background-color: #EDF5FF;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.skyblue {
+    background-color: #CBDDF6;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.mocha {
+    background-color: #A8936A;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.champagne {
+    background-color: #F5E7CB;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+li {
+    font-family: 'Poppins', sans-serif;
+}
